@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#Parent{
+    width: 100%;
+}
+
+#Enfant1{
+    width: 50%;
+    background-color: aqua;
+}
+
+#Enfant2{
+    background-color: pink;
+    width: 5%;
+    float: left;
+    height: 100px;
+    padding-top: 50px;
+
+}
+
+#Enfant3{
+    width: 50%;
+    background-color: orange;
+}
+
+#Enfant4{
+    width: 50%;
+    background-color:yellowgreen;
+}
+
+.Enfant{
+    text-align: center;
+    font-size: 180%;
+    font-weight: bold;
+}
