@@ -8,7 +8,7 @@
 }
 
 #Enfant1{
-    width: 50%;
+    width: 100%;
     background-color: aqua;
     height: 50px;
     padding-top: 25px;
@@ -16,14 +16,14 @@
 
 
 #Enfant2{
-    width: 50%;
+    width: 100%;
     background-color: coral;
     height: 180px;
     padding-top: 180px;
 }
 
 #Enfant3{
-    width: 50%;
+    width: 100%;
     background-color:yellowgreen;
     height: 50px;
     padding-top: 25px;

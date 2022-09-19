@@ -8,31 +8,32 @@
 }
 
 #Enfant1{
-    width: 50%;
+    width: 100%;
     background-color: aqua;
+    height: 50px;
+    padding-top: 25px;
 }
 
 #Enfant2{
-    background-color: pink;
-    width: 5%;
+    width: 8%;
+    background-color: yellow;
+    height: 175px;
+    padding-top: 175px;
     float: left;
-    height: 100px;
-    padding-top: 50px;
-
 }
-
 #Enfant3{
-    width: 50%;
-    background-color: orange;
+    width: 100%;
+    background-color: #FF5733;
+    height: 180px;
+    padding-top: 170px;
 }
-
 #Enfant4{
-    width: 50%;
-    background-color:yellowgreen;
+    width: 100%;
+    background-color: green;
 }
 
 .Enfant{
-    text-align: center;
     font-size: 180%;
     font-weight: bold;
+    text-align: center;
 }
