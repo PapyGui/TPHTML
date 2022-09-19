@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#Parent{
+    width: 100%;
+}
+
+#Enfant1{
+    width: 100%;
+    background-color: aqua;
+    height: 50px;
+    padding-top: 25px;
+}
+
+#Enfant2{
+    width: 8%;
+    background-color: yellow;
+    height: 87px;
+    padding-top: 87px;
+    float: left;
+}
+
+#Enfant3{
+    width: 8%;
+    background-color: violet;
+    height: 87px;
+    padding-top: 87px;
+}
+
+#Enfant4{
+    width: 100%;
+    background-color: #FF5733;
+    height: 180px;
+    padding-top: 170px;
+}
+#Enfant5{
+    width: 100%;
+    background-color: green;
+}
+
+.Enfant{
+    font-size: 180%;
+    font-weight: bold;
+    text-align: center;
+}
