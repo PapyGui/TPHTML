@@ -7,6 +7,10 @@
     width: 100%;
 }
 
+#Parent1{
+    float: left;
+}
+
 #Enfant1{
     width: 100%;
     background-color: aqua;
@@ -16,18 +20,17 @@
 
 #Enfant2{
 
-    width: 8%;
+    width: 100%;
     background-color: yellow;
     height: 87px;
     padding-top: 87px;
 }
 
 #Enfant3{
-    width: 8%;
+    width: 100%;
     background-color: violet;
     height: 87px;
     padding-top: 87px;
-    position: absolute;
 }
 
 #Enfant4{
