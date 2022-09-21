@@ -3,6 +3,9 @@
     padding: 0;
 }
 
+#Ptenfant{
+ float: left;
+}
 #Parent{
     width: 100%;
 }
@@ -15,18 +18,17 @@
 }
 
 #Enfant2{
-    width: 8%;
+    width: 100%;
     background-color: yellow;
     height: 87px;
     padding-top: 87px;
 }
 
 #Enfant3{
-    width: 8%;
+    width: 100%;
     background-color: violet;
     height: 87px;
     padding-top: 87px;
-    position: absolute;
 }
 
 #Enfant4{
