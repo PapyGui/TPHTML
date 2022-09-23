@@ -3,9 +3,22 @@
     padding: 0;
 }
 
+
+#Parent{
+    width: 100%;
+}
+
 #Civilité{
-<<<<<<< HEAD
     width: 20%;
+}
+
+#Civilité1{
+    width: 15%;
+}
+
+#Civilité2{
+    width: 15%;
+
 }
 
 #Nom1{
@@ -19,22 +32,4 @@
 #Adresse1{
     width: 30%;
     float: left;
-=======
-    width: 20%
-    float: left;
-}
-#Bouton1{
-    width: 80%;
-    float: left;
-}
-
-#Nom{
-    width: 5%;
-    float: left;
-}
-
-#Nom1{
-    width: 10%;
-    float: left
->>>>>>> 28da997982ea8b635c52207b318bc16aa1d5967e
 }
