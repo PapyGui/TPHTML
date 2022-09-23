@@ -4,7 +4,7 @@
 }
 
 #Ptenfant{
- float: left;
+    float: left;
 }
 #Parent{
     width: 100%;
@@ -47,7 +47,7 @@
 #Enfant6{
     width: 10%;
     background-color: red;
-    height: 85px;
+    height: 100px;
     padding-top: 85px;
     float: right;
 }
