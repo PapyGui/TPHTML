@@ -3,14 +3,19 @@
     padding: 0;
 }
 
-#Bouton1{
-    width: 100%;
-}
-
-#Nom{
-    width: 50%;
+#Civilité{
+    width: 20%;
 }
 
 #Nom1{
-    width: 50%;
+    width: 80%;
+    
+}
+
+#Nom{
+    width: 100%;
+}
+#Adresse1{
+    width: 30%;
+    float: left;
 }
