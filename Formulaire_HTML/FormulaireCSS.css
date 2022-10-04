@@ -1,35 +1,64 @@
-*{
-    margin: 0;
-    padding: 0;
+input[valeur="10"]
+{
+    margin-left: 100px;
 }
 
-
-#Parent{
-    width: 100%;
+input[name="nom"]
+{
+    margin-left: 118px;
 }
 
-#Civilité{
-    width: 20%;
+select[id="pet-select"]
+{
+    margin-left: 35px;
 }
 
-#Civilité1{
-    width: 15%;
+input[name="année"]
+{
+    margin-left: 10px;
 }
 
-#Civilité2{
-    width: 15%;
-
-}
-
-#Nom1{
-    width: 80%;
+.numéro{
+    margin-left: 95px;
     
 }
 
-#Nom{
-    width: 100%;
+input[name="numéro"]
+{
+    margin-left: 10px;
+    margin-bottom: 25px;
 }
-#Adresse1{
-    width: 30%;
-    float: left;
+
+.codepostale{
+    margin-left: 159px;
+}
+
+input[name="codepostal"]
+{
+    margin-left: 10px;
+}
+
+label.adresse{
+    padding-top: 100px;
+    
+}
+
+input[name="rue"]
+{
+    margin-left: 10px;
+}
+
+input[name="ville"]
+{
+    margin-left: 10px;
+}
+
+input[name="email"]
+{
+    margin-left: 105px;
+}
+
+input[name="tel"]
+{
+    margin-left: 81px;
 }
